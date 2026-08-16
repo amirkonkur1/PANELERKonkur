@@ -1,0 +1,26 @@
+{
+  "name": "برنامه درسی کنکوری",
+  "short_name": "برنامه درسی",
+  "description": "اپلیکیشن تحت وب پیشرفته مدیریت برنامه درسی کنکور",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0a0e1a",
+  "orientation": "portrait",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://drive.google.com/uc?export=view&id=1xuGwERJYSj7-7fcBwJRPiM9--gs2HYig",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://drive.google.com/uc?export=view&id=1xuGwERJYSj7-7fcBwJRPiM9--gs2HYig",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
